@@ -15,7 +15,7 @@ This repository is organized to help you easily navigate through the project fil
 - Here, you'll find static images or PDFs of our dashboard for a sneak peek of the insights we've gathered.
 
 ### 3. **Analysis**
-- Dive deeper into our analysis in the [Analysis folder](/Analysis/).
+- Dive deeper into our analysis in the [Analysis folder](https://github.com/sai-gh/bixi-data-visualization/blob/main/Syed_Ishmum_Bixi_Report_2.pdf).
 - This folder includes individual reports, Jupyter notebooks, or Python scripts that detail specific aspects of our data exploration.
 
 ## How to Explore
@@ -23,15 +23,15 @@ This repository is organized to help you easily navigate through the project fil
 Here's a suggested path to navigate through our project:
 
 1. **Tableau Workbook (Complete Analysis)**
-   - Start with the Tableau workbook in the [Tableau Workbook folder](/Tableau%20Workbook/).
+   - Start with the Tableau workbook in the [Tableau Workbook folder](https://github.com/sai-gh/bixi-data-visualization/blob/main/Syed_Ishmum_Bixi2.twb).
    - This comprehensive resource contains all the visualizations and insights we've generated.
 
 2. **Dashboard Preview (Quick Look)**
-   - If you're short on time, head to the [Dashboard Preview folder](/Dashboard%20Preview/).
+   - If you're short on time, head to the [Dashboard Preview folder](https://github.com/sai-gh/bixi-data-visualization/blob/main/Syed_Ishmum_Bixi_dashboard.pdf).
    - You'll find previews of our dashboard that provide a condensed view of our findings.
 
 3. **Analysis (In-Depth Insights)**
-   - For a deep dive into specific analyses or methodologies, explore the [Analysis folder](/Analysis/).
+   - For a deep dive into specific analyses or methodologies, explore the [Analysis folder](https://github.com/sai-gh/bixi-data-visualization/blob/main/Syed_Ishmum_Bixi_Report_2.pdf).
    - Here, you can access individual reports and scripts related to various aspects of our data exploration.
 
 Feel free to reach out if you have any questions or need further assistance with the Bixi Data Visualization project. I hope you find these insights valuable!
