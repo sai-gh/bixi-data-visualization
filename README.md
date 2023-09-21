@@ -7,7 +7,7 @@ Welcome to the Bixi Data Visualization project! In this repository, we have expl
 This repository is organized to help you easily navigate through the project files. Whether you're interested in the complete Tableau workbook, specific analyses, or just want a quick preview of our dashboard, you'll find everything you need here.
 
 ### 1. **Tableau Workbook**
-- The heart of our data visualization is the Tableau workbook. You can access it in the [Tableau Workbook folder]([/Tableau%20Workbook/](https://github.com/sai-gh/bixi-data-visualization/blob/main/Bixi_Dashboard.twb)).
+- The heart of our data visualization is the Tableau workbook. You can access it in the [Tableau Workbook folder](Bixi_Dashboard.twb).
 - The workbook contains various dashboards, sheets, and visualizations that provide a comprehensive view of our analysis.
 
 ### 2. **Dashboard Preview**
