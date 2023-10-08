@@ -34,4 +34,6 @@ Here's a suggested path to navigate through our project:
    - For a deep dive into specific analyses or methodologies, explore the [Analysis folder](https://github.com/sai-gh/bixi-data-visualization/blob/main/Syed_Ishmum_Bixi_Report_2.pdf).
    - Here, you can access individual reports and scripts related to various aspects of our data exploration.
 
-Feel free to reach out if you have any questions or need further assistance with the Bixi Data Visualization project. I hope you find these insights valuable!
+## Contact
+
+If you have any questions, or suggestions, or would like to discuss this project further, please feel free to reach out via [email](sydishmum@gmail.com) or [LinkedIn](https://www.linkedin.com/in/syed-ishmum/details/experience/).
